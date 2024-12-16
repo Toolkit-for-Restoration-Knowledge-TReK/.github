@@ -10,6 +10,7 @@ We are developing a suite of tools to help researchers and practitioners annotat
 Collaboration members from:
 - [University of Waterloo](https://uwaterloo.ca/)
 - [Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/)
+- [Bielefeld University](https://www.uni-bielefeld.de/)
 - [University of Victoria](https://www.uvic.ca/)
 - [Carleton University](https://carleton.ca/)
 - [Université Laval](https://www.ulaval.ca/)
